@@ -1,3 +1,4 @@
 *.tiff
 *.pyc
 *.mat
+.codegpt
